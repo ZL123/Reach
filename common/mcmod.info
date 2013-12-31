@@ -1,0 +1,23 @@
+[
+{
+	"modid": "Reach by ZL123",
+	"name": "Reach",
+	"version": "0.0.0",
+	"mcversion": "1.6.2",
+	"description": "Reach to the stars!",
+	"authorList": [
+	  "ZL123"
+	],
+	"credits": "",
+	"logoFile": "",
+	"url": "",
+	"updateUrl": "",
+	"parent": "",
+	"requiredMods": [
+    "Forge@[9.10.1.871,)",
+    "FML@[6.2.62.871,)"
+    ],
+	"screenshots": [],
+	"dependencies": []
+}
+]
